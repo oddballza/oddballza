@@ -12,6 +12,10 @@ misbehave reports BROKEN — never PASS.
 
 Twenty-five years in network and infrastructure architecture, development and DevSecOps — ISP core routing, secure hybrid infrastructure, CI/CD pipelines and regulated environments. This is where the code lives.
 
+Twenty-five years in network and infrastructure architecture, development and DevSecOps
+— ISP core routing, secure hybrid infrastructure, CI/CD pipelines and regulated
+environments. This is where the code lives.
+
 ### Charter — controlled learning & capability platform
 
 A multi-tenant platform for organisations that must demonstrate their training
@@ -40,9 +44,9 @@ single-tenant deployment.
 ### Gadgetbridge — upstream contributions
 
 [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) is the
-cloudless replacement for gadget vendors' proprietary Android apps. Merged work
-spans four areas — the authoritative, current list is [every pull request I have
-opened there](https://codeberg.org/Freeyourgadget/Gadgetbridge/pulls?state=all&poster=1443751):
+cloudless replacement for gadget vendors' proprietary Android apps. Merged upstream
+so far — full record with merge commits in
+[openwatch](https://github.com/oddballza/openwatch):
 
 - **Device drivers** — support for a previously unsupported watch in the Moyoung
   family, charging detection, on-demand blood-oxygen measurement, and fixes to
@@ -88,4 +92,4 @@ coordinator patch.
 - Findings get corroborated across independent captures before they are written
   down as fact.
 
-**Elsewhere:** [Codeberg](https://codeberg.org/oddballza)
+**Elsewhere:** [Codeberg](https://codeberg.org/oddballza) · [LinkedIn](https://www.linkedin.com/in/nick-p-za/)
