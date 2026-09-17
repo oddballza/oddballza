@@ -10,6 +10,8 @@ indistinguishable from a fact that is not there, so a check that only asserts
 that must be found and a negative control that must not. One whose controls
 misbehave reports BROKEN — never PASS.
 
+Twenty-five years in network and infrastructure architecture, development and DevSecOps — ISP core routing, secure hybrid infrastructure, CI/CD pipelines and regulated environments. This is where the code lives.
+
 ### Charter — controlled learning & capability platform
 
 A multi-tenant platform for organisations that must demonstrate their training
