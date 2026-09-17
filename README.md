@@ -12,10 +12,6 @@ misbehave reports BROKEN — never PASS.
 
 Twenty-five years in network and infrastructure architecture, development and DevSecOps — ISP core routing, secure hybrid infrastructure, CI/CD pipelines and regulated environments. This is where the code lives.
 
-Twenty-five years in network and infrastructure architecture, development and DevSecOps
-— ISP core routing, secure hybrid infrastructure, CI/CD pipelines and regulated
-environments. This is where the code lives.
-
 ### Charter — controlled learning & capability platform
 
 A multi-tenant platform for organisations that must demonstrate their training
