@@ -38,8 +38,9 @@ single-tenant deployment.
 ### Gadgetbridge — upstream contributions
 
 [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) is the
-cloudless replacement for gadget vendors' proprietary Android apps. Fourteen
-changes merged so far:
+cloudless replacement for gadget vendors' proprietary Android apps. Merged work
+spans four areas — the authoritative, current list is [every pull request I have
+opened there](https://codeberg.org/Freeyourgadget/Gadgetbridge/pulls?state=all&poster=1443751):
 
 - **Device drivers** — support for a previously unsupported watch in the Moyoung
   family, charging detection, on-demand blood-oxygen measurement, and fixes to
